@@ -108,4 +108,4 @@ each invoke you pass these arguments and internally it changes to the counter (b
 
 NOTE: 
 
-Already there is an example02 modified available [he](https://github.com/asararatnakar/fabric/blob/master/examples/chaincode/go/chaincode_example02/chaincode_example02.go) for GoSDK 
+Already there is an example02 modified available [here](https://github.com/asararatnakar/fabric/blob/master/examples/chaincode/go/chaincode_example02/chaincode_example02.go) for GoSDK 
