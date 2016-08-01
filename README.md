@@ -16,7 +16,7 @@ POST: http://127.0.0.1:5000/registrar
 ```
 
 ## Deploy
-Deploying chaincode with a 1KB value for first key i.e,  a0 (Inchaincode it is changes to a0)
+Deploying chaincode with a 1KB value for first key i.e,  a0 (In chaincode **'a'** is changed to a0)
 POST: http://127.0.0.1:5000/chaincode
 
 ```
@@ -83,7 +83,7 @@ Also you can query for counter (i.e, b)
 ```
 
 ##Invokes 
-each invoke you pass these arguments and internally it changes to the counter (b value) and also append counter to the first argument(ie., a1, a2 ..... aN)
+each invoke you pass these arguments and internally it changed to the counter (b value) and also append counter to the first argument(ie., a1, a2 ..... aN)
 **NOTE:** Change the chaincode as per the deploy
 
 ```
